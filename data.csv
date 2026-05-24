@@ -1,0 +1,4 @@
+dp_kw,dp_listprice,dp_licenseno,dp_mileage,dp_mfd,dp_firstname,dp_lastname,dp_dob,dp_gender,dp_streetaddress,dp_country,dp_zipcode,dp_city,dp_website,dp_startdate,dp_email,dp_phone,dp_username,dp_password,dp_confirmpassword,dp_comments
+345,772,23456,4300,11/27/2025,mani,shakthi,11/07/2003,male,47 agan street,India,456787,Chennai,abcdef.com,01/02/2026,mani.shakthi@gmail.com,9876543345,mani_shakthi,Mani1234,Mani1234,Nice
+800,804,52418,5600,10/07/2025,kumar,mano,11/12/2003,male,47 gagan street,India,458986,Madurai,bcdefg.com,01/03/2026,kumar.mano@gmail.com,9876543512,kumar_mano,Kumar1234,Kumar1234,Good
+772,650,45677,8000,08/21/2025,vel,bala,08/21/2003,male,62 mukesh street,India,123456,Trichy,after.com,01/05/2026,vel.bala@gmail.com,9087654321,vel_bala,Vel1234,Vel1234,Wondeful
